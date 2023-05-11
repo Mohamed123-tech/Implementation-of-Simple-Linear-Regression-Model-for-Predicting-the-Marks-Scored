@@ -111,17 +111,14 @@ print("RMSE= ",rmse)
 
 df.head()
 
-![229978451-2b6bdc4f-522e-473e-ae2f-84ec824344c5](https://github.com/Mohamed123-tech/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/84170699/efe0a9b1-5170-48ce-8a0f-1268d72351aa)
-
+![229978451-2b6bdc4f-522e-473e-ae2f-84ec824344c5](https://github.com/Mohamed123-tech/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/84170699/efe0a9b1-5170-48ce-8a0f-1268d72351aa)<br>
 df.tail()
 
-![229978854-6af7d9e9-537f-4820-a10b-ab537f3d0683](https://github.com/Mohamed123-tech/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/84170699/fc9c233f-4cdd-4ac0-97a9-765e6c3111cc)
-
+![229978854-6af7d9e9-537f-4820-a10b-ab537f3d0683](https://github.com/Mohamed123-tech/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/84170699/fc9c233f-4cdd-4ac0-97a9-765e6c3111cc)<br>
 Array value of X<br>
 ![229978918-707c006d-0a30-4833-bf77-edd37e8849bb](https://github.com/Mohamed123-tech/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/84170699/c9216553-e876-45e1-8f53-a16f1695e196)
 
-Array value of Y
-
+Array value of Y<br>
 ![229978994-b0d2c87c-bef9-4efe-bba2-0bc57d292d20](https://github.com/Mohamed123-tech/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/84170699/f7d9e7f5-9a5f-4e86-b3bb-c608b998a89c)
 
 Values of Y prediction
