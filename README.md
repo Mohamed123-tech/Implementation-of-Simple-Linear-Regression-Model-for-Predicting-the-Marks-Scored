@@ -117,8 +117,7 @@ df.tail()
 
 ![229978854-6af7d9e9-537f-4820-a10b-ab537f3d0683](https://github.com/Mohamed123-tech/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/84170699/fc9c233f-4cdd-4ac0-97a9-765e6c3111cc)
 
-Array value of X
-
+Array value of X<br>
 ![229978918-707c006d-0a30-4833-bf77-edd37e8849bb](https://github.com/Mohamed123-tech/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/84170699/c9216553-e876-45e1-8f53-a16f1695e196)
 
 Array value of Y
